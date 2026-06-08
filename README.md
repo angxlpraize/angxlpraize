@@ -1,7 +1,5 @@
 
 <div align="center"
-  
-  ![Profile view counter](https://komarev.com/ghpvc/?username=your-github-username)
 
   > <img width="498" height="329" alt="natsuhiko-hyuuga-mitsuba-sousuke" src="https://github.com/user-attachments/assets/0eb0580f-5434-4a75-828f-9890a903ce57" /></p>
 
@@ -9,6 +7,7 @@
 
  
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [<b><i>atabook](https://angxlpraize.atabook.org/)‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎‎‎‎ [strawpage](https://angxlpraize.straw.page)‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎ ‎‎‎‎  ‎  ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎[rentry](https://rentry.co/angxlpraize)  ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎[help palestine](https://arab.org/click-to-help/palestine/)
+ ![67](https://komarev.com/ghpvc/?username=your-github-username)
  </div>
 
 <!--
