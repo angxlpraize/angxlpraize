@@ -1,6 +1,7 @@
 ![Profile view counter](https://komarev.com/ghpvc/?username=your-github-username)
 
-   ![](https://tenor.com/view/natsuhiko-hyuuga-tbhk-toilet-bound-roses-gif-21920233)
+   ![]<img width="498" height="329" alt="natsuhiko-hyuuga-mitsuba-sousuke" src="https://github.com/user-attachments/assets/0eb0580f-5434-4a75-828f-9890a903ce57" />
+
 
 
  
