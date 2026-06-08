@@ -1,6 +1,6 @@
 ![Profile view counter](https://komarev.com/ghpvc/?username=your-github-username)
 
-   ![](https://i.postimg.cc/3xMF3GwC/Anime-Riyo-Render.webp)
+   ![] I'll redo this soon brah imlazy
  
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [atabook](https://angxlpraize.atabook.org/)‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎‎‎‎ [strawpage](https://angxlpraize.straw.page)‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎ ‎‎‎‎  ‎  ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎[rentry](https://rentry.co/angxlpraize)  ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎[help palestine](https://arab.org/click-to-help/palestine/)
  
