@@ -1,6 +1,6 @@
 ![Profile view counter](https://komarev.com/ghpvc/?username=your-github-username)
 
-   ![] I'll redo this soon brah imlazy
+   ![]https://static.wikia.nocookie.net/hanakokun/images/a/a2/Natsuhiko_Bakeneko_Ryokan_Hanako-tei_Fullbody.png/revision/latest?cb=20230404165222)
  
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [atabook](https://angxlpraize.atabook.org/)‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎‎‎‎ [strawpage](https://angxlpraize.straw.page)‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎ ‎‎‎‎  ‎  ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎[rentry](https://rentry.co/angxlpraize)  ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎[help palestine](https://arab.org/click-to-help/palestine/)
  
