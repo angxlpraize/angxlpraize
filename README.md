@@ -8,7 +8,7 @@
  
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [<b><i>atabook](https://angxlpraize.atabook.org/)‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎‎‎‎ [strawpage](https://angxlpraize.straw.page)‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎ ‎‎‎‎  ‎  ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎[rentry](https://rentry.co/angxlpraize)  ‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎‎ ‎‎‎ ‎‎‎‎‎ ‎‎‎ ‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎ ‎‎‎‎[help palestine](https://arab.org/click-to-help/palestine/)
  
- ![](https://komarev.com/ghpvc/?username=angxlpraize&style=plastic&color=932c25&label=:꣓&base=1,265,403)
+ ![](https://komarev.com/ghpvc/?username=angxlpraize&style=plastic&color=932c25&label=:꣓&base=1265403)
  </div>
 
 <!--
