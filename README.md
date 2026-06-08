@@ -1,6 +1,6 @@
 ![Profile view counter](https://komarev.com/ghpvc/?username=your-github-username)
 
-   ![]<img width="498" height="280" alt="image" src="(https://github.com/user-attachments/assets/7de92a8e-3314-4f55-bbc5-69746cebb392)" />
+   ![]
 
 
  
