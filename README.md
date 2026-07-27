@@ -1,4 +1,4 @@
-[@pt-atars](https://github.com/pt-stars) ouuu shiii 
+[@pt-stars](https://github.com/pt-stars) ouuu shiii 
 
 <div align="center"
 
