@@ -2,20 +2,15 @@
   
   <img width="498" height="329" src="https://i.imgur.com/rngPYhR.gif" alt="banner" />
   
-  <br><br> 
-  </details>
+  <br><br>
+  <details>
 <summary>links</summary>
 
-[*ata*](https://angxlpraize.atabook.org/)
+[ata](https://angxlpraize.atabook.org/) [fluffle](https://fluffle.cc/ateliertower) [straw](https://angxlpraize.straw.page) [palestine](https://arab.org/click-to-help/palestine)
 
-[*fluffle*](https://fluffle.cc/ateliertower)
-
-[*straw*](https://angxlpraize.straw.page)
-
-[*palestine*](https://arab.org/click-to-help/palestine)
 </details>
   
-  ![](https://komarev.com/ghpvc/?username=angxlpraize&style=plastic&color=932c25&label=:꣓&base=1265403)
+  ![](https://komarev.com/ghpvc/?username=angxlpraize&style=plastic&color=ffeddd&label=:꣓&base=1265403)
 </div>
 
 
